@@ -15,9 +15,14 @@ Julia
 
 MANDELBROT & JULIA 
 
-Move up   = 8 or ^ , Move down  = 2 or V 
+Move up   = 8 or ^ , Move down  = 2 or V
+
 Move left = 4 or < , Move righr = 6 or > 
-Zoom in   = +      , Zoom out   = -      
-Toggle Mandelbrot/Julia         = m      
-Original values                 = o      
+
+Zoom in   = +      , Zoom out   = - 
+
+Toggle Mandelbrot/Julia         = m
+
+Original values                 = o
+
 
